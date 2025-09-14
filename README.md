@@ -1,6 +1,6 @@
 # FARM CARE
 
-**Farm Care** Farm Care is a full-stack web application designed to connect farmers directly with customers, facilitating the seamless listing, browsing, and purchasing of agricultural products. The platform provides role-based access, allowing farmers to manage products and customers to browse, view details, and manage their cart.
+**Farm Care**  is a full-stack web application designed to connect farmers directly with customers, facilitating the seamless listing, browsing, and purchasing of agricultural products. The platform provides role-based access, allowing farmers to manage products and customers to browse, view details, and manage their cart.
 
 This project demonstrates skills in **React**, **Node.js**, **Express**, **MongoDB**, and modern responsive UI design. Perfect for showcasing on a resume as a full-stack development project.
 
