@@ -1,4 +1,4 @@
-# 🚜 FARM CARE
+# FARM CARE
 
 **Farm Care** Farm Care is a full-stack web application designed to connect farmers directly with customers, facilitating the seamless listing, browsing, and purchasing of agricultural products. The platform provides role-based access, allowing farmers to manage products and customers to browse, view details, and manage their cart.
 
@@ -59,9 +59,14 @@ This project demonstrates skills in **React**, **Node.js**, **Express**, **Mongo
 
 ---
 
-# ⚙ INSTALLATION
+# INSTALLATION
 
 1. **Clone the repository:**  
 ```bash
 git clone https://github.com/deepthi566/farm-care.git
 cd farm-care
+
+2. **Setup Backend**
+Navigate to the backend folder
+```bash
+cd backend
