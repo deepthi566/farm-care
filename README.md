@@ -66,7 +66,11 @@ This project demonstrates skills in **React**, **Node.js**, **Express**, **Mongo
 git clone https://github.com/deepthi566/farm-care.git
 cd farm-care
 
-2. **Setup Backend**
+---
+
+2. Setup Backend
+
 Navigate to the backend folder
+
 ```bash
 cd backend
